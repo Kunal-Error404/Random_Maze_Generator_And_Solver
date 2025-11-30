@@ -1,4 +1,4 @@
-#ifndef PLAYER_MOVEMENT_H//Preprocessor Directives; checks if PLAYER_MOVEMENT_H is not defined or not
+#ifndef PLAYER_MOVEMENT_H//Preprocessor Directives; checks if PLAYER_MOVEMENT_H is defined or not
 #define PLAYER_MOVEMENT_H//if its not defined then this defines it and processes the following code
 
 #include <ctype.h>//including ctype headerfile to use tolower function
