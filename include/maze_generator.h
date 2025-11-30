@@ -1,4 +1,4 @@
-#ifndef MAZE_GENERATOR_H//Preprocessor Directives; checks if Display_H is not defined or not
+#ifndef MAZE_GENERATOR_H//Preprocessor Directives; checks if Display_H is defined or not
 #define MAZE_GENERATOR_H//if its not defined then this defines it and processes the following code
 
 #include <stdlib.h>//including standard library functions
