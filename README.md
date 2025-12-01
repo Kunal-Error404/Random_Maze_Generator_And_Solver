@@ -63,18 +63,24 @@ This is a console-based maze game written in C where:
 ## Project Structure
 
 ```
-Random_Maze_Game/
+Random_Maze_Generator_And_Solver/
+├── assets/
+│   └── Picture.png
+├── docs/
+│   ├── flowchart.png
+│   └── flowchart.txt
+├── include/
+│   ├── display.h
+│   ├── game_display.h
+│   ├── maze_generator.h
+│   ├── maze_solver.h
+│   ├── player_movement.h
+│   └── timer.h
 ├── src/
-│   └── main.c              # Main game code
-├── include/                # All header files
-│   ├── display.h          # Colors and screen functions
-│   ├── maze_generator.h   # Maze creation code
-│   ├── maze_solver.h      # Maze solving algorithm
-│   ├── game_display.h     # Maze drawing functions
-│   ├── player_movement.h  # Player control functions
-│   └── timer.h           # Time tracking functions
-├── README.md              # This file
-└── .gitignore            # Files to ignore in Git
+│   ├── a.exe
+│   └── main.c
+├── .gitignore
+├── README.md
 ```
 
 ## Features
