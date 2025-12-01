@@ -1,0 +1,21 @@
+# Object files
+*.o
+*.exe
+
+# Executable
+random_maze
+maze_solver
+maze_game
+
+# Data files
+*.txt
+!README.md
+!maze_times.txt
+
+# IDE specific files
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
