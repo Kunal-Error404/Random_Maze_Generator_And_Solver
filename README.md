@@ -69,6 +69,7 @@ Random_Maze_Generator_And_Solver/
 ├── docs/
 │   ├── flowchart.png
 │   └── flowchart.txt
+|   └── ProjectFile.pdf
 ├── include/
 │   ├── display.h
 │   ├── game_display.h
@@ -77,7 +78,6 @@ Random_Maze_Generator_And_Solver/
 │   ├── player_movement.h
 │   └── timer.h
 ├── src/
-│   ├── a.exe
 │   └── main.c
 ├── .gitignore
 ├── README.md
